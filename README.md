@@ -1,2 +1,5 @@
-# test-1
-training github
+# git practice
+training git
+
+- 2024.08.24
+
