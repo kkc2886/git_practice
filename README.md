@@ -1,5 +1,5 @@
 # git practice
 training git
 
-- 2024.08.24
-
+- date : 2024.08.24
+- writer : kkc2886
